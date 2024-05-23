@@ -1,0 +1,5 @@
+#IDE Configurartion
+/.metadata/
+*.iml
+
+.idea
